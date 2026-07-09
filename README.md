@@ -1,24 +1,22 @@
-<div align="center">
 
-# Charu Malik
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Charu%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
-### Backend & AI Systems Engineer · Data Science Undergrad
-
-Building reliable backend systems, AI pipelines, and data-driven products — from raw sockets to LLM orchestration to predictive models.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems...;Shipping+AI+infrastructure+and+LLM+pipelines...;Turning+data+into+decisions..." alt="Typing SVG"/>
 
 [![Email](https://img.shields.io/badge/Email-charu.malik2210%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:charu.malik2210@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-charu--malik-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/charu-malik-56636733a)
 [![GitHub](https://img.shields.io/badge/GitHub-charu2210-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/charu2210)
+![Profile Views](https://komarev.com/ghpvc/?username=charu2210&color=7AA2F7&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## About
+## 🎯 About
 
 B.Tech Computer Science & Engineering (Data Science), Manipal University Jaipur — CGPA 8.99/10, expected 2028.
 
-I work across three overlapping areas and I'm open to roles in any of them:
+I enjoy building software where reliable backend systems, intelligent applications, and data-driven decision making intersect — and I'm actively looking for roles across:
 
 - **Backend / SDE** — concurrent systems, custom network protocols, REST APIs, thread-safe data structures
 - **AI / ML Engineering** — multi-agent LLM pipelines, structured output enforcement, anomaly detection
@@ -28,7 +26,7 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 ---
 
-## Technical Skills
+## 🧰 Technical Skills
 
 | Category | Skills |
 |---|---|
@@ -39,9 +37,15 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 | **Data** | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Statistical Inference |
 | **Tools** | Git, Linux/Bash, Docker, Postman, Wireshark |
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,spring,scikitlearn,git,docker,linux,postman&theme=dark" />
+
+</div>
+
 ---
 
-## Experience
+## 💼 Experience
 
 **AI & Data Science Intern — XYlofy AI** *(June 2026 – Present, Remote)*
 - Built an employee attrition prediction system in Scikit-learn, comparing Logistic Regression, Random Forest, and Gradient Boosting on Precision/Recall/F1/ROC-AUC.
@@ -50,7 +54,7 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### `R-UDP` — Reliable Transport Protocol over UDP
 **Backend / Systems** · Java, Socket Programming, Concurrent Systems, CRC32, ARQ
@@ -76,6 +80,13 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 [→ Repository](https://github.com/charu2210/phantom)
 
+### `OpenCase` — AI Investigation Platform
+**AI / Full-Stack** · Next.js, TypeScript, FastAPI, Gemini API
+- Research-adjacent project exploring how LLMs reason over evidence: four investigation personas, an evidence board, theory comparison, and step-by-step reasoning traces.
+- FastAPI backend serving prompt-engineered investigation modes to a Next.js/TypeScript frontend.
+
+[→ Repository](https://github.com/charu2210/opencase)
+
 ### `FlowState` — Anomaly Detection on Behavioral Data
 **AI / Data** · Python, Scikit-learn, Statistical Feature Engineering
 - 7-dimensional feature space (Shannon Entropy, Hjorth Mobility, CoV, Skewness, Kurtosis) from keystroke timing data.
@@ -84,18 +95,11 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 [→ Repository](https://github.com/charu2210/FlowState)
 
-### `OpenCase` — AI Investigation Platform
-**AI / Full-Stack** · Next.js, TypeScript, FastAPI, Gemini API
-- Research project (under a university professor) exploring how LLMs reason over evidence: four investigation personas, an evidence board, theory comparison, and step-by-step reasoning traces.
-- FastAPI backend serving prompt-engineered investigation modes to a Next.js/TypeScript frontend.
-
-[→ Repository](https://github.com/charu2210/opencase)
-
 ### `House Price Prediction` — Regression Modeling
 **Data Analyst** · Python, Scikit-learn, Pandas
 - End-to-end regression workflow on residential property data: cleaning, EDA, one-hot encoding, 80/20 split.
-- Compared Linear Regression and Random Forest; best model R² 0.653 (MAE ~970K, RMSE ~1.32M).
-- Feature importance analysis translated into business recommendations.
+- Compared Linear Regression and Random Forest; best model (Linear Regression) reached R² 0.653 (MAE ≈ 970K, RMSE ≈ 1.32M).
+- Feature importance analysis (area, bathrooms, A/C, parking) translated into pricing recommendations.
 
 [→ Repository](https://github.com/charu2210/house-price-prediction)
 
@@ -109,22 +113,60 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 ---
 
-## Achievements & Leadership
+## 🌱 Open Source — GirlScript Summer of Code 2026
+
+Active contributor, currently ranked **#409 globally out of 43,587 participants (top 1%)**.
+
+| Metric | Value |
+|---|---|
+| PRs Merged | 13 (across 13 projects) |
+| Contribution Points | 1,033 (PRs) + 650 (bounty tasks) |
+| Badges Earned | 12, including Elite, Power Contributor, Rising Star |
+| Focus Areas | Bug fixes — security (XSS prevention), concurrency, data handling, UX |
+
+Sample merged PRs: fixed an XSS vulnerability in skill-badge rendering, prevented concurrent-request race conditions in an AI dev assistant, and fixed EXIF orientation handling for uploaded images — contributing production-quality fixes across security, concurrency, image processing, and data correctness.
+
+[→ GSSoC Profile](https://gssoc.girlscript.org/profile/5deeb7c6-21ca-4415-ae1d-da355c6db586)
+
+---
+
+## 🏆 Achievements & Leadership
 
 - **Hackathon Finalist:** Offline National Finalist, IIT Bombay Upskill India Hackathon · Finalist, India Innovates 2026 (presented at Bharat Mandapam, New Delhi) · Round 2 Qualifier, EY Techathon
 - **Global Delegate:** Selected Delegate, HPAIR 2026 (Harvard Project for Asian & International Relations)
-- **Certifications:** NPTEL Programming in Java — Elite Gold (Top 90th percentile) · GirlScript Summer of Code 2025 — Selected Participant
+- **Certifications:** NPTEL Programming in Java — Elite Gold (Top 90th percentile)
 - **Leadership:** Joint Head of Corporate Affairs, IEEE Computer Society MUJ — secured 5+ industry sponsorships for Genesis 5.0 (20,000+ attendees)
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
+
+> Consistently building backend systems, AI infrastructure, and open-source software.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charu2210&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charu2210&layout=compact&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charu2210&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=charu2210&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=charu2210&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=charu2210&theme=tokyo-night&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/charu2210/charu2210/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
+<!--
+Optional next step — a contribution snake animation (purely cosmetic, signals an actively maintained profile):
+1. In this repo (charu2210/charu2210), add .github/workflows/snake.yml using the platane/snk GitHub Action.
+2. Once the workflow runs once, uncomment and add this line here:
+<img src="https://raw.githubusercontent.com/charu2210/charu2210/output/github-contribution-grid-snake.svg" width="100%" />
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
 
 </div>
 
@@ -132,6 +174,9 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 <div align="center">
 
+*"I enjoy building systems that remain reliable long after the happy path disappears."*
+
 **charu.malik2210@gmail.com** · [LinkedIn](https://linkedin.com/in/charu-malik-56636733a) · [GitHub](https://github.com/charu2210)
 
 </div>
+
