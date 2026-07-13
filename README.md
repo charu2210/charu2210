@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Charu%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems...;Shipping+AI+infrastructure+and+LLM+pipelines...;Turning+data+into+decisions..." alt="Typing SVG"/>
@@ -95,6 +94,14 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 
 [→ Repository](https://github.com/charu2210/FlowState)
 
+### `Demand Intelligence Engine` — Sales Forecasting & Business Analytics System
+**Data Science / Full-Stack** · Python, Streamlit, SARIMA, Prophet, XGBoost, Scikit-learn
+- End-to-end retail demand forecasting system on 4 years of transaction data: benchmarked SARIMA, Prophet, and XGBoost head-to-head, with SARIMA winning at 20.5% MAPE.
+- Dual-method anomaly detection (Isolation Forest + Z-score) across 209 weeks of sales, plus KMeans/PCA-based product segmentation into four demand tiers, each mapped to a distinct inventory strategy.
+- Shipped as a live, interactive 4-page Streamlit dashboard (Sales Overview, Forecast Explorer, Anomaly Report, Product Segments) — not just a notebook, an actual decision-support tool.
+
+[→ Live Demo](https://salesforecasting-9sfccbfx2bdpah4h3fezql.streamlit.app/) · [→ Repository](https://github.com/charu2210/demand-intelligence-engine)
+
 ### `House Price Prediction` — Regression Modeling
 **Data Analyst** · Python, Scikit-learn, Pandas
 - End-to-end regression workflow on residential property data: cleaning, EDA, one-hot encoding, 80/20 split.
@@ -154,9 +161,7 @@ Sample merged PRs: fixed an XSS vulnerability in skill-badge rendering, prevente
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=charu2210&theme=tokyo-night&hide_border=true"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/charu2210/charu2210/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
+
 <!--
 Optional next step — a contribution snake animation (purely cosmetic, signals an actively maintained profile):
 1. In this repo (charu2210/charu2210), add .github/workflows/snake.yml using the platane/snk GitHub Action.
@@ -179,4 +184,3 @@ Optional next step — a contribution snake animation (purely cosmetic, signals 
 **charu.malik2210@gmail.com** · [LinkedIn](https://linkedin.com/in/charu-malik-56636733a) · [GitHub](https://github.com/charu2210)
 
 </div>
-
