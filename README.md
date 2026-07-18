@@ -100,7 +100,7 @@ Currently a **Data Science Intern at XYlofy AI**, building forecasting and class
 - Dual-method anomaly detection (Isolation Forest + Z-score) across 209 weeks of sales, plus KMeans/PCA-based product segmentation into four demand tiers, each mapped to a distinct inventory strategy.
 - Shipped as a live, interactive 4-page Streamlit dashboard (Sales Overview, Forecast Explorer, Anomaly Report, Product Segments) — not just a notebook, an actual decision-support tool.
 
-[→ Live Demo](https://salesforecasting-9sfccbfx2bdpah4h3fezql.streamlit.app/) · [→ Repository](https://github.com/charu2210/demand-intelligence-engine)
+[→ Live Demo](https://salesforecasting-9sfccbfx2bdpah4h3fezql.streamlit.app/) · [→ Repository](https://github.com/charu2210/SalesForecasting)
 
 ### `House Price Prediction` — Regression Modeling
 **Data Analyst** · Python, Scikit-learn, Pandas
