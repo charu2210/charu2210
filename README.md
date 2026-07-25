@@ -15,13 +15,7 @@
 
 B.Tech Computer Science & Engineering (Data Science), Manipal University Jaipur — CGPA 8.99/10, expected 2028.
 
-I enjoy building software where reliable backend systems, intelligent applications, and data-driven decision making intersect — and I'm actively looking for roles across:
-
-- **Backend / SDE** — concurrent systems, custom network protocols, REST APIs, thread-safe data structures
-- **AI / ML Engineering** — multi-agent LLM pipelines, structured output enforcement, anomaly detection
-- **Data Analytics** — EDA, predictive modeling, feature engineering, business-facing reporting
-
-Currently a **Data Science Intern at XYlofy AI**, building forecasting and classification pipelines end-to-end.
+I enjoy building software where reliable backend systems, intelligent applications, and data-driven decision making intersect.
 
 ---
 
