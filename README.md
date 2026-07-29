@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Charu%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=180&section=header&text=Charu%20Malik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Systems%20%C2%B7%20Data%20Science&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems...;Shipping+AI+infrastructure+and+LLM+pipelines...;Turning+data+into+decisions..." alt="Typing SVG"/>
 
@@ -15,7 +15,7 @@
 
 B.Tech Computer Science & Engineering (Data Science), Manipal University Jaipur — CGPA 8.99/10, expected 2028.
 
-I enjoy building software where reliable backend systems, intelligent applications, and data-driven decision making intersect.
+I enjoy building software where reliable AI systems, intelligent applications, and data-driven decision making intersect.
 
 ---
 
@@ -23,16 +23,14 @@ I enjoy building software where reliable backend systems, intelligent applicatio
 
 | Category | Skills |
 |---|---|
-| **Languages** | Python, Java, C++, SQL (Window Functions, CTEs, Joins) |
-| **Backend** | FastAPI, AsyncIO, Spring Boot, REST API design, Pydantic |
-| **Systems** | Multithreading, Concurrency, Socket Programming, TCP/UDP, ConcurrentHashMap, Thread-Safe Design |
+| **Languages** | Python, Java, C, SQL (Window Functions, CTEs, Joins) |
 | **AI / ML** | Scikit-learn, Multi-Agent LLM Orchestration, Claude API, Prompt Engineering, Anomaly Detection |
 | **Data** | Pandas, NumPy, Matplotlib, Seaborn, Feature Engineering, Statistical Inference |
 | **Tools** | Git, Linux/Bash, Docker, Postman, Wireshark |
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,fastapi,spring,scikitlearn,git,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,scikitlearn,LLM,git,docker,linux,postman&theme=dark" />
 
 </div>
 
@@ -40,10 +38,12 @@ I enjoy building software where reliable backend systems, intelligent applicatio
 
 ## 💼 Experience
 
-**AI & Data Science Intern — XYlofy AI** *(June 2026 – Present, Remote)*
-- Built an employee attrition prediction system in Scikit-learn, comparing Logistic Regression, Random Forest, and Gradient Boosting on Precision/Recall/F1/ROC-AUC.
-- Built end-to-end ML pipelines: data cleaning, feature engineering, encoding, scaling on structured HR datasets.
-- Extracted feature importance and translated model output into business recommendations for stakeholders.
+**AI & Data Science Intern — XYlofy AI** *(June 2026 – July 2026, Remote)*
+- Built an end-to-end ETL pipeline in Python to ingest, transform, validate, and integrate multi-year retail datasets for downstream analytics.
+- Automated reusable data-processing workflows using Pandas and NumPy, reducing manual preprocessing effort across experiments.
+- Built modular data-transformation and anomaly-detection components consumed by an interactive analytics platform.
+- Evaluated pipeline output quality using MAE, RMSE, and MAPE to improve data accuracy and support operational decision-making.
+- Maintained pipeline code using Git-based version control and collaborative pull-request workflows.
 
 ---
 
