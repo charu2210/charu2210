@@ -30,7 +30,7 @@ I enjoy building software where reliable AI systems, intelligent applications, a
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,scikitlearn,LLM,git,docker,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,scikitlearn,git,docker,linux,postman&theme=dark" />
 
 </div>
 
