@@ -71,7 +71,7 @@ Currently, my research interests center around **how AI systems reason, update b
 
 ### `Phantom Plan` — Multi-Agent LLM Infrastructure
 
-**AI Engineering · Python · FastAPI · AsyncIO · LLM APIs · Pydantic**
+**AI Engineering · Python · FastAPI · AsyncIO · LLM APIs **
 
 * Architected a **6-agent LLM inference pipeline** for financial planning using asynchronous execution and shared pipeline state.
 * Designed structured communication between agents using **Pydantic-validated JSON contracts**.
@@ -182,7 +182,7 @@ Currently, my research interests center around **how AI systems reason, update b
 
 ### AI Engineering
 
-`Python` `FastAPI` `AsyncIO` `Pydantic` `REST APIs`
+`Python` `FastAPI` `REST APIs`
 `Agent Orchestration` `Fault Tolerance` `Inference Pipelines`
 
 ### Systems
@@ -209,7 +209,7 @@ Currently, my research interests center around **how AI systems reason, update b
 **Top 1% global contributor**
 
 * Ranked among the top contributors out of **43,000+ participants**.
-* Merged **13 pull requests across multiple projects**.
+* Merged **14 pull requests across multiple projects**.
 * Contributed production-quality fixes spanning:
 
   * Security and XSS prevention
