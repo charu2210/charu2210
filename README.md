@@ -192,7 +192,7 @@ Currently, my research interests center around **how AI systems reason, update b
 
 ### Tools
 
-`Git` `GitHub` `Docker` `Linux` `Streamlit` `Jupyter` `Postman` `Wireshark`
+`Git` `GitHub` `Docker` `Linux` `Streamlit` `Jupyter` 
 
 <div align="center">
 
