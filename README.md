@@ -36,20 +36,11 @@ Currently, my research interests center around **how AI systems reason, update b
 ### Undergraduate Research Intern — Multimodal AI
 
 **VISMA Lab, IIT Bhubaneswar · Dr. Debi Prosad Dogra**
-*Aug 2026 – Present*
+*Aug 2026 – Oct 2026*
 
-* Developing an AI-powered image-search system using pretrained **CLIP vision-language embeddings** for semantic retrieval from natural-language queries.
+* Developed an AI-powered image-search system using pretrained **CLIP vision-language embeddings** for semantic retrieval from natural-language queries.
 * Implementing a cross-modal retrieval pipeline in **PyTorch** using image/text embeddings and cosine similarity.
 * Building an interactive Streamlit prototype integrating embedding generation, semantic search, and image retrieval into an end-to-end multimodal AI system.
-
-### Research Fellow 
-
-**Single Core Labs · Research Collective**
-*Aug 2026 – Present*
-
-* Selected for the **Single Core Labs Research Collective**.
-* Contributing to research on **benchmarking and improving coding agents**.
-* Working within a research-oriented mentorship and publication program focused on large language models and AI agents.
 
 ---
 
